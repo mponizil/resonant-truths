@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  flex-direction: row;
+
+  padding: 20px;
+
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.content {
+  padding: 20px;
+}
+
+.logo {
+  font-weight: 700;
+
+  margin-right: 40px;
+}
